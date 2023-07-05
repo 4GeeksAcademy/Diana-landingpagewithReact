@@ -1,4 +1,13 @@
-
+@media screen and (max-width: 781px){
+    #cardDiv {
+        display: inline-block;
+        flex-direction: column;
+        flex-wrap: wrap;
+        justify-content: center;
+        align-items: center;
+        
+    }
+}
 /* 
 
     You can write your own styles here...

@@ -3,11 +3,10 @@ import React from "react";
 
 const Jumbotron = () => {
 	return (
-    <div className="bg-light p-5 rounded-lg m-2">
-      <h1 className="display-4">A Warm Welcome!</h1>
-      <p className="lead">This is a simple hero unit, a simple jumbotron-style component for calling extra attention to featured content or information.</p>
-      <p>It uses utility classes for typography and spacing to space content out within the larger container.</p>
-      <a className="btn btn-primary btn-lg" href="#" role="button">Learn more</a>
+    <div className="bg-light p-5 rounded-lg m-2 rounded">
+      <h1 className="display-4">Conoce sobre las maravillosas creaturas de Minecraft!</h1>
+      <p className="lead">Mira las cartas abajo y descubre las características de tus creaturas favoritas</p>
+      <a className="btn btn-primary btn-lg" href="#" role="button">¡Suscríbete a nuestro canal de Discord!</a>
     </div>
   );
 };    	
